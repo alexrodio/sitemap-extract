@@ -1,0 +1,822 @@
+2025-04-23 12:40:27,760 - ERROR - Error reading file sitemaps_index.txt: [Errno 2] No such file or directory: 'sitemaps_index.txt'
+2025-04-23 12:40:27,760 - ERROR - No valid input sources provided
+2025-04-23 12:40:41,582 - ERROR - Error reading file sitemap_index.txt: [Errno 2] No such file or directory: 'sitemap_index.txt'
+2025-04-23 12:40:41,582 - ERROR - No valid input sources provided
+2025-04-23 12:41:01,583 - INFO - Starting processing of 272 sitemap(s)
+2025-04-23 12:41:01,643 - ERROR - Failed to fetch URL Source URL: sitemap_index: No connection adapters were found for 'Source URL: sitemap_index'
+2025-04-23 12:41:01,799 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:02,123 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-127.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:02,264 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-127.txt
+2025-04-23 12:41:02,314 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:02,529 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-26.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:02,692 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-26.txt
+2025-04-23 12:41:02,744 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:02,955 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-2.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:03,098 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-2.txt
+2025-04-23 12:41:03,149 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:03,362 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheel-models-15.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:03,482 - INFO - Saved 10000 URLs to sitemap-baza-drom-wheel-models-15.txt
+2025-04-23 12:41:03,535 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:03,718 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-61.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:03,916 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-61.txt
+2025-04-23 12:41:03,969 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:04,183 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-109.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:04,310 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-109.txt
+2025-04-23 12:41:04,363 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:04,695 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-112.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:04,828 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-112.txt
+2025-04-23 12:41:04,879 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:05,283 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-6.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:05,419 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-6.txt
+2025-04-23 12:41:05,475 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:05,649 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-12.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:05,787 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-12.txt
+2025-04-23 12:41:05,839 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:06,005 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-150.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:06,147 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-150.txt
+2025-04-23 12:41:06,198 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:06,417 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-12.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:06,575 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-12.txt
+2025-04-23 12:41:06,626 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:06,840 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-33.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:07,000 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-33.txt
+2025-04-23 12:41:07,052 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:07,258 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-35.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:07,413 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-35.txt
+2025-04-23 12:41:07,465 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:07,633 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-36.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:07,807 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-36.txt
+2025-04-23 12:41:07,858 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:08,072 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-34.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:08,234 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-34.txt
+2025-04-23 12:41:08,285 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:08,495 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-27.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:08,664 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-27.txt
+2025-04-23 12:41:08,726 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:08,933 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-53.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:09,093 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-53.txt
+2025-04-23 12:41:09,144 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:09,371 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheel-models-16.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:09,493 - INFO - Saved 10000 URLs to sitemap-baza-drom-wheel-models-16.txt
+2025-04-23 12:41:09,545 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:09,759 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-142.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:09,898 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-142.txt
+2025-04-23 12:41:09,951 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:10,162 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-58.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:10,299 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-58.txt
+2025-04-23 12:41:10,350 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:10,530 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-3.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:10,712 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-3.txt
+2025-04-23 12:41:10,764 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:10,966 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-121.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:11,203 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-121.txt
+2025-04-23 12:41:11,285 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:11,492 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-101.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:11,653 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-101.txt
+2025-04-23 12:41:11,707 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:11,918 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-25.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:12,052 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-25.txt
+2025-04-23 12:41:12,108 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:12,284 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-33.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:12,435 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-33.txt
+2025-04-23 12:41:12,486 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:12,661 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-51.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:12,804 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-51.txt
+2025-04-23 12:41:12,855 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:13,060 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-90.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:13,194 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-90.txt
+2025-04-23 12:41:13,246 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:13,451 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-27.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:13,587 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-27.txt
+2025-04-23 12:41:13,641 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:13,836 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-31.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:14,003 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-31.txt
+2025-04-23 12:41:14,054 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:14,230 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-103.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:14,383 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-103.txt
+2025-04-23 12:41:14,435 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:14,650 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-78.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:14,784 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-78.txt
+2025-04-23 12:41:14,835 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:15,015 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-66.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:15,170 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-66.txt
+2025-04-23 12:41:15,240 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:15,448 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-95.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:15,590 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-95.txt
+2025-04-23 12:41:15,645 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:15,850 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-153.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:15,971 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-153.txt
+2025-04-23 12:41:16,022 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:16,225 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-37.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:16,393 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-37.txt
+2025-04-23 12:41:16,444 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:16,646 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-72.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:16,780 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-72.txt
+2025-04-23 12:41:16,830 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:17,038 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-135.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:17,172 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-135.txt
+2025-04-23 12:41:17,223 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:17,396 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheel-models-14.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:17,535 - INFO - Saved 10000 URLs to sitemap-baza-drom-wheel-models-14.txt
+2025-04-23 12:41:17,586 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:17,805 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-75.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:17,934 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-75.txt
+2025-04-23 12:41:17,985 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:18,188 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-20.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:18,345 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-20.txt
+2025-04-23 12:41:18,395 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:18,603 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-85.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:18,739 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-85.txt
+2025-04-23 12:41:18,792 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:18,970 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-81.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:19,128 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-81.txt
+2025-04-23 12:41:19,180 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:19,384 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-91.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:19,520 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-91.txt
+2025-04-23 12:41:19,574 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:19,775 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheel-models-8.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:19,965 - INFO - Saved 10000 URLs to sitemap-baza-drom-wheel-models-8.txt
+2025-04-23 12:41:20,021 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:20,193 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-42.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:20,344 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-42.txt
+2025-04-23 12:41:20,396 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:20,616 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-39.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:20,748 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-39.txt
+2025-04-23 12:41:20,798 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:21,009 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-61.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:21,140 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-61.txt
+2025-04-23 12:41:21,191 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:21,411 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-161.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:21,528 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-161.txt
+2025-04-23 12:41:21,579 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:21,776 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheel-models-7.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:21,894 - INFO - Saved 10000 URLs to sitemap-baza-drom-wheel-models-7.txt
+2025-04-23 12:41:21,946 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:22,203 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-88.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:22,375 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-88.txt
+2025-04-23 12:41:22,429 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:22,647 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-41.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:22,782 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-41.txt
+2025-04-23 12:41:22,833 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:23,036 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-62.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:23,205 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-62.txt
+2025-04-23 12:41:23,257 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:23,465 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-126.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:23,603 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-126.txt
+2025-04-23 12:41:23,661 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:23,880 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-155.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:24,000 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-155.txt
+2025-04-23 12:41:24,059 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:24,261 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-58.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:24,426 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-58.txt
+2025-04-23 12:41:24,479 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:24,654 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-59.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:24,809 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-59.txt
+2025-04-23 12:41:24,861 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:25,076 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-68.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:25,209 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-68.txt
+2025-04-23 12:41:25,261 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:25,435 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-141.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:25,590 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-141.txt
+2025-04-23 12:41:25,641 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:25,858 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-77.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:26,005 - INFO - Saved 9620 URLs to sitemap-baza-drom-dirs-77.txt
+2025-04-23 12:41:26,056 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:26,261 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-40.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:26,395 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-40.txt
+2025-04-23 12:41:26,446 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:26,647 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-92.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:26,780 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-92.txt
+2025-04-23 12:41:26,831 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:27,051 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-60.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:27,185 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-60.txt
+2025-04-23 12:41:27,237 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:27,436 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-65.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:27,566 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-65.txt
+2025-04-23 12:41:27,673 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:29,892 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-145.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:30,030 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-145.txt
+2025-04-23 12:41:30,082 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:30,286 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-163.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:30,406 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-163.txt
+2025-04-23 12:41:30,458 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:30,856 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-63.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:30,982 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-63.txt
+2025-04-23 12:41:31,035 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:31,198 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-71.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:31,387 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-71.txt
+2025-04-23 12:41:31,439 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:31,652 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheel-models-19.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:31,774 - INFO - Saved 10000 URLs to sitemap-baza-drom-wheel-models-19.txt
+2025-04-23 12:41:31,827 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:31,992 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-company-profile-0.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:31,996 - INFO - Saved 200 URLs to sitemap-baza-drom-company-profile-0.txt
+2025-04-23 12:41:32,045 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:32,254 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-117.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:32,388 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-117.txt
+2025-04-23 12:41:32,439 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:32,644 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-146.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:32,780 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-146.txt
+2025-04-23 12:41:32,846 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:33,040 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-9.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:33,212 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-9.txt
+2025-04-23 12:41:33,267 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:33,479 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-57.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:33,670 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-57.txt
+2025-04-23 12:41:33,727 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:33,910 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-54.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:34,083 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-54.txt
+2025-04-23 12:41:34,152 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:34,347 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-8.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:34,490 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-8.txt
+2025-04-23 12:41:34,550 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:34,725 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-44.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:34,881 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-44.txt
+2025-04-23 12:41:34,934 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:35,144 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-105.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:35,278 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-105.txt
+2025-04-23 12:41:35,335 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:35,512 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-156.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:35,646 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-156.txt
+2025-04-23 12:41:35,712 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:35,919 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-4.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:36,088 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-4.txt
+2025-04-23 12:41:36,153 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:36,328 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-24.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:36,517 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-24.txt
+2025-04-23 12:41:36,572 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:36,789 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-67.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:36,965 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-67.txt
+2025-04-23 12:41:37,024 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:37,237 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-157.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:37,419 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-157.txt
+2025-04-23 12:41:37,472 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:37,683 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-28.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:37,844 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-28.txt
+2025-04-23 12:41:37,896 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:38,062 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-133.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:38,213 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-133.txt
+2025-04-23 12:41:38,264 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:39,487 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-59.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:39,666 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-59.txt
+2025-04-23 12:41:39,718 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:39,936 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-5.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:40,091 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-5.txt
+2025-04-23 12:41:40,142 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:40,346 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-bulletins-3.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:40,648 - INFO - Saved 3461 URLs to sitemap-baza-drom-bulletins-3.txt
+2025-04-23 12:41:40,699 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:40,874 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-21.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:41,050 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-21.txt
+2025-04-23 12:41:41,103 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:41,327 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheel-models-6.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:41,515 - INFO - Saved 10000 URLs to sitemap-baza-drom-wheel-models-6.txt
+2025-04-23 12:41:41,577 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:41,799 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-41.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:41,975 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-41.txt
+2025-04-23 12:41:42,027 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:42,195 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-124.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:42,358 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-124.txt
+2025-04-23 12:41:42,410 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:42,619 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-32.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:42,789 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-32.txt
+2025-04-23 12:41:42,841 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:43,016 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheel-models-3.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:43,158 - INFO - Saved 10000 URLs to sitemap-baza-drom-wheel-models-3.txt
+2025-04-23 12:41:43,209 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:43,423 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-7.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:43,595 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-7.txt
+2025-04-23 12:41:43,648 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:43,854 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-35.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:43,990 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-35.txt
+2025-04-23 12:41:44,041 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:44,261 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-122.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:44,399 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-122.txt
+2025-04-23 12:41:44,451 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:44,650 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-37.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:44,780 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-37.txt
+2025-04-23 12:41:44,832 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:45,094 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-25.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:45,294 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-25.txt
+2025-04-23 12:41:45,348 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:45,558 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-30.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:45,720 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-30.txt
+2025-04-23 12:41:45,771 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:45,973 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-24.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:46,099 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-24.txt
+2025-04-23 12:41:46,151 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:46,357 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-10.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:46,509 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-10.txt
+2025-04-23 12:41:46,560 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:46,775 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-48.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:46,946 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-48.txt
+2025-04-23 12:41:46,997 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:47,196 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-56.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:47,364 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-56.txt
+2025-04-23 12:41:47,416 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:47,585 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheel-models-20.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:47,733 - INFO - Saved 10000 URLs to sitemap-baza-drom-wheel-models-20.txt
+2025-04-23 12:41:47,790 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:47,962 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-73.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:48,114 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-73.txt
+2025-04-23 12:41:48,166 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:48,375 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-4.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:48,537 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-4.txt
+2025-04-23 12:41:48,590 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:48,765 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-52.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:48,954 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-52.txt
+2025-04-23 12:41:49,006 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:49,230 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-159.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:49,354 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-159.txt
+2025-04-23 12:41:49,409 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:49,641 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-86.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:49,774 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-86.txt
+2025-04-23 12:41:49,826 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:50,027 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-115.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:50,160 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-115.txt
+2025-04-23 12:41:50,217 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:50,429 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-129.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:50,568 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-129.txt
+2025-04-23 12:41:50,620 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:50,796 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-69.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:50,981 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-69.txt
+2025-04-23 12:41:51,035 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:51,249 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheel-models-17.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:51,374 - INFO - Saved 10000 URLs to sitemap-baza-drom-wheel-models-17.txt
+2025-04-23 12:41:51,427 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:51,644 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-1.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:51,806 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-1.txt
+2025-04-23 12:41:51,860 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:52,072 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-36.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:52,214 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-36.txt
+2025-04-23 12:41:52,267 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:54,481 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheel-models-2.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:54,604 - INFO - Saved 10000 URLs to sitemap-baza-drom-wheel-models-2.txt
+2025-04-23 12:41:54,659 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:54,839 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheel-models-4.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:54,983 - INFO - Saved 10000 URLs to sitemap-baza-drom-wheel-models-4.txt
+2025-04-23 12:41:55,037 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:55,212 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-bulletins-1.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:55,553 - INFO - Saved 10000 URLs to sitemap-baza-drom-bulletins-1.txt
+2025-04-23 12:41:55,607 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:55,787 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-31.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:55,946 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-31.txt
+2025-04-23 12:41:56,001 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:56,235 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-116.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:56,368 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-116.txt
+2025-04-23 12:41:56,422 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:56,640 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-151.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:56,779 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-151.txt
+2025-04-23 12:41:56,832 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:57,052 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-7.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:57,191 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-7.txt
+2025-04-23 12:41:57,244 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:57,464 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-125.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:57,607 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-125.txt
+2025-04-23 12:41:57,662 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:57,872 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-22.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:58,037 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-22.txt
+2025-04-23 12:41:58,100 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:58,283 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-120.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:58,459 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-120.txt
+2025-04-23 12:41:58,512 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:58,729 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-52.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:58,866 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-52.txt
+2025-04-23 12:41:58,922 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:59,142 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-138.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:59,280 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-138.txt
+2025-04-23 12:41:59,333 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:41:59,557 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-73.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:41:59,731 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-73.txt
+2025-04-23 12:41:59,878 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:00,092 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-144.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:00,261 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-144.txt
+2025-04-23 12:42:00,318 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:00,534 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-51.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:00,710 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-51.txt
+2025-04-23 12:42:00,771 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:00,953 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-128.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:01,134 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-128.txt
+2025-04-23 12:42:01,189 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:01,403 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-64.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:01,535 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-64.txt
+2025-04-23 12:42:01,595 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:01,808 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-16.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:01,976 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-16.txt
+2025-04-23 12:42:02,028 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:02,251 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-54.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:02,437 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-54.txt
+2025-04-23 12:42:02,496 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:04,705 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheel-models-12.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:04,846 - INFO - Saved 10000 URLs to sitemap-baza-drom-wheel-models-12.txt
+2025-04-23 12:42:04,899 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:05,078 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-55.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:05,243 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-55.txt
+2025-04-23 12:42:05,296 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:05,565 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-66.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:05,831 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-66.txt
+2025-04-23 12:42:05,885 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:06,090 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-87.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:06,226 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-87.txt
+2025-04-23 12:42:06,277 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:06,452 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-89.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:06,611 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-89.txt
+2025-04-23 12:42:06,666 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:06,884 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-131.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:07,023 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-131.txt
+2025-04-23 12:42:07,075 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:07,291 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-23.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:07,416 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-23.txt
+2025-04-23 12:42:07,467 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:07,644 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-42.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:07,833 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-42.txt
+2025-04-23 12:42:07,887 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:08,103 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-23.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:08,264 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-23.txt
+2025-04-23 12:42:08,316 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:08,528 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheel-models-1.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:08,648 - INFO - Saved 10000 URLs to sitemap-baza-drom-wheel-models-1.txt
+2025-04-23 12:42:08,703 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:08,929 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-68.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:09,101 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-68.txt
+2025-04-23 12:42:09,154 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:09,367 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-28.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:09,865 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-28.txt
+2025-04-23 12:42:09,918 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:10,129 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-19.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:10,289 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-19.txt
+2025-04-23 12:42:10,341 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:10,557 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-63.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:10,732 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-63.txt
+2025-04-23 12:42:10,786 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:10,998 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-114.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:11,135 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-114.txt
+2025-04-23 12:42:11,188 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:11,362 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-140.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:11,518 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-140.txt
+2025-04-23 12:42:11,570 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:11,746 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-69.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:11,905 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-69.txt
+2025-04-23 12:42:11,956 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:12,160 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-158.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:12,274 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-158.txt
+2025-04-23 12:42:12,326 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:12,540 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-38.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:12,720 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-38.txt
+2025-04-23 12:42:12,774 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:12,979 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-148.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:13,132 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-148.txt
+2025-04-23 12:42:13,204 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:13,389 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-39.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:13,620 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-39.txt
+2025-04-23 12:42:13,692 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:15,997 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-45.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:16,504 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-45.txt
+2025-04-23 12:42:16,556 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:16,781 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-94.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:16,919 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-94.txt
+2025-04-23 12:42:16,971 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:17,196 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-47.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:17,366 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-47.txt
+2025-04-23 12:42:17,418 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:17,593 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-0.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:17,777 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-0.txt
+2025-04-23 12:42:17,832 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:18,050 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheel-models-13.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:18,173 - INFO - Saved 10000 URLs to sitemap-baza-drom-wheel-models-13.txt
+2025-04-23 12:42:18,230 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:18,432 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-84.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:18,567 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-84.txt
+2025-04-23 12:42:18,620 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:18,797 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-83.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:18,956 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-83.txt
+2025-04-23 12:42:19,007 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:19,215 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheel-models-0.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:19,339 - INFO - Saved 10000 URLs to sitemap-baza-drom-wheel-models-0.txt
+2025-04-23 12:42:19,391 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:19,605 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-43.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:19,745 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-43.txt
+2025-04-23 12:42:19,797 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:20,019 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-130.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:20,160 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-130.txt
+2025-04-23 12:42:20,215 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:20,432 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-50.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:20,607 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-50.txt
+2025-04-23 12:42:20,687 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:20,899 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-72.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:21,114 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-72.txt
+2025-04-23 12:42:21,173 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:21,392 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-152.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:21,532 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-152.txt
+2025-04-23 12:42:21,585 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:21,803 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-97.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:21,942 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-97.txt
+2025-04-23 12:42:21,995 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:22,200 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheels-country-0.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:22,234 - INFO - Saved 4224 URLs to sitemap-baza-drom-wheels-country-0.txt
+2025-04-23 12:42:22,289 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:22,469 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-79.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:22,629 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-79.txt
+2025-04-23 12:42:22,687 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:22,907 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-74.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:23,111 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-74.txt
+2025-04-23 12:42:23,164 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:23,376 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-5.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:23,515 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-5.txt
+2025-04-23 12:42:23,571 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:23,754 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-76.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:23,942 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-76.txt
+2025-04-23 12:42:23,994 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:24,201 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-46.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:24,375 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-46.txt
+2025-04-23 12:42:24,430 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:24,649 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-139.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:24,792 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-139.txt
+2025-04-23 12:42:24,846 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:25,056 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-55.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:25,230 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-55.txt
+2025-04-23 12:42:25,282 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:25,497 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-32.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:25,621 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-32.txt
+2025-04-23 12:42:25,674 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:25,899 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-46.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:26,048 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-46.txt
+2025-04-23 12:42:26,101 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:26,315 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-77.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:26,452 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-77.txt
+2025-04-23 12:42:26,522 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:26,736 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-143.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:26,887 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-143.txt
+2025-04-23 12:42:26,954 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:27,161 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-62.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:27,300 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-62.txt
+2025-04-23 12:42:27,355 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:27,581 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-60.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:27,771 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-60.txt
+2025-04-23 12:42:27,823 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:28,006 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-22.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:28,153 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-22.txt
+2025-04-23 12:42:28,205 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:28,410 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-99.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:28,547 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-99.txt
+2025-04-23 12:42:28,599 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:28,813 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-49.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:28,939 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-49.txt
+2025-04-23 12:42:28,991 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:29,165 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-20.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:29,312 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-20.txt
+2025-04-23 12:42:29,381 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:29,599 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-75.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:29,772 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-75.txt
+2025-04-23 12:42:29,824 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:30,006 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-17.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:30,189 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-17.txt
+2025-04-23 12:42:30,242 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:30,454 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-71.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:30,611 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-71.txt
+2025-04-23 12:42:30,680 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:30,894 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-149.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:31,023 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-149.txt
+2025-04-23 12:42:31,075 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:31,296 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-102.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:31,432 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-102.txt
+2025-04-23 12:42:31,486 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:31,701 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-160.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:31,822 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-160.txt
+2025-04-23 12:42:31,874 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:32,082 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-44.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:32,249 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-44.txt
+2025-04-23 12:42:32,302 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:32,526 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-38.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:32,732 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-38.txt
+2025-04-23 12:42:32,792 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:33,010 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheel-models-18.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:33,135 - INFO - Saved 10000 URLs to sitemap-baza-drom-wheel-models-18.txt
+2025-04-23 12:42:33,188 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:33,396 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-29.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:33,562 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-29.txt
+2025-04-23 12:42:33,616 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:33,793 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-137.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:33,954 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-137.txt
+2025-04-23 12:42:34,006 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:34,223 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-13.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:34,354 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-13.txt
+2025-04-23 12:42:34,406 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:34,583 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-21.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:34,726 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-21.txt
+2025-04-23 12:42:34,777 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:34,957 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-100.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:35,114 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-100.txt
+2025-04-23 12:42:35,165 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:35,341 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-118.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:35,490 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-118.txt
+2025-04-23 12:42:35,542 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:35,757 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-14.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:35,935 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-14.txt
+2025-04-23 12:42:35,988 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:36,218 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-30.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:36,344 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-30.txt
+2025-04-23 12:42:36,396 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:36,613 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-93.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:36,749 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-93.txt
+2025-04-23 12:42:36,801 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:36,974 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-136.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:37,131 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-136.txt
+2025-04-23 12:42:37,182 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:37,372 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-6.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:37,566 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-6.txt
+2025-04-23 12:42:37,618 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:37,839 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-40.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:38,005 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-40.txt
+2025-04-23 12:42:38,056 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:38,264 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-43.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:38,439 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-43.txt
+2025-04-23 12:42:38,494 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:38,717 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-110.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:38,856 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-110.txt
+2025-04-23 12:42:38,909 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:39,084 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheel-models-21.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:39,248 - INFO - Saved 6937 URLs to sitemap-baza-drom-wheel-models-21.txt
+2025-04-23 12:42:39,301 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:39,513 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-107.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:39,651 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-107.txt
+2025-04-23 12:42:39,705 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:39,919 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-26.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:40,056 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-26.txt
+2025-04-23 12:42:40,108 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:40,278 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheel-models-9.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:40,421 - INFO - Saved 10000 URLs to sitemap-baza-drom-wheel-models-9.txt
+2025-04-23 12:42:40,476 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:40,659 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-29.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:40,944 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-29.txt
+2025-04-23 12:42:40,995 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:41,162 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-74.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:41,348 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-74.txt
+2025-04-23 12:42:41,401 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:41,577 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-162.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:41,707 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-162.txt
+2025-04-23 12:42:41,760 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:41,961 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-57.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:42,091 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-57.txt
+2025-04-23 12:42:42,143 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:42,318 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-3.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:42,479 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-3.txt
+2025-04-23 12:42:42,532 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:42,746 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-1.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:42,874 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-1.txt
+2025-04-23 12:42:42,926 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:43,136 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-47.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:43,273 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-47.txt
+2025-04-23 12:42:43,327 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:43,527 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-56.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:43,645 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-56.txt
+2025-04-23 12:42:43,697 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:43,910 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-17.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:44,068 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-17.txt
+2025-04-23 12:42:44,120 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:44,329 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-106.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:44,467 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-106.txt
+2025-04-23 12:42:44,519 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:44,686 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-11.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:44,825 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-11.txt
+2025-04-23 12:42:44,876 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:45,052 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-147.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:45,204 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-147.txt
+2025-04-23 12:42:45,257 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:45,428 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-154.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:45,575 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-154.txt
+2025-04-23 12:42:45,627 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:45,855 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-8.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:46,031 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-8.txt
+2025-04-23 12:42:46,090 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:46,297 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-164.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:46,363 - INFO - Saved 6688 URLs to sitemap-baza-drom-models-164.txt
+2025-04-23 12:42:46,420 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:46,620 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-70.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:46,751 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-70.txt
+2025-04-23 12:42:46,805 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:46,978 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-76.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:47,138 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-76.txt
+2025-04-23 12:42:47,190 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:47,398 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-64.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:47,571 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-64.txt
+2025-04-23 12:42:47,625 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:47,835 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-15.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:47,997 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-15.txt
+2025-04-23 12:42:48,050 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:48,255 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-bulletins-2.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:48,565 - INFO - Saved 10000 URLs to sitemap-baza-drom-bulletins-2.txt
+2025-04-23 12:42:48,620 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:48,791 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-123.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:48,947 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-123.txt
+2025-04-23 12:42:49,005 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:49,212 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-34.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:49,348 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-34.txt
+2025-04-23 12:42:49,402 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:49,578 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-bulletins-0.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:49,907 - INFO - Saved 10000 URLs to sitemap-baza-drom-bulletins-0.txt
+2025-04-23 12:42:49,960 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:50,167 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-10.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:50,291 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-10.txt
+2025-04-23 12:42:50,345 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:50,517 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-96.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:50,673 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-96.txt
+2025-04-23 12:42:50,727 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:50,894 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-98.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:51,047 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-98.txt
+2025-04-23 12:42:51,098 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:51,314 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-65.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:51,489 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-65.txt
+2025-04-23 12:42:51,543 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:51,715 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-48.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:51,868 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-48.txt
+2025-04-23 12:42:51,920 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:52,132 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-45.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:52,300 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-45.txt
+2025-04-23 12:42:52,355 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:52,564 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-18.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:52,742 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-18.txt
+2025-04-23 12:42:52,799 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:53,008 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-18.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:53,142 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-18.txt
+2025-04-23 12:42:53,194 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:53,404 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-14.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:53,535 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-14.txt
+2025-04-23 12:42:53,587 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:53,797 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-9.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:53,931 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-9.txt
+2025-04-23 12:42:53,982 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:54,203 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-119.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:54,338 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-119.txt
+2025-04-23 12:42:54,389 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:54,605 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-70.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:54,777 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-70.txt
+2025-04-23 12:42:54,829 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:54,999 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-19.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:55,149 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-19.txt
+2025-04-23 12:42:55,204 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:55,427 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-16.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:55,568 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-16.txt
+2025-04-23 12:42:55,623 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:55,829 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-80.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:55,964 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-80.txt
+2025-04-23 12:42:56,016 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:56,233 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-82.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:56,376 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-82.txt
+2025-04-23 12:42:56,430 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:56,641 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-53.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:56,777 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-53.txt
+2025-04-23 12:42:56,830 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:57,050 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheel-models-11.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:57,177 - INFO - Saved 10000 URLs to sitemap-baza-drom-wheel-models-11.txt
+2025-04-23 12:42:57,383 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:57,599 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-13.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:57,758 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-13.txt
+2025-04-23 12:42:57,810 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:57,977 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheel-models-10.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:58,119 - INFO - Saved 10000 URLs to sitemap-baza-drom-wheel-models-10.txt
+2025-04-23 12:42:58,172 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:58,375 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-50.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:58,501 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-50.txt
+2025-04-23 12:42:58,553 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:58,731 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-49.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:58,922 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-49.txt
+2025-04-23 12:42:58,975 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:59,151 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-111.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:59,301 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-111.txt
+2025-04-23 12:42:59,354 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:59,571 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-67.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:42:59,698 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-67.txt
+2025-04-23 12:42:59,751 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:42:59,960 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-104.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:43:00,088 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-104.txt
+2025-04-23 12:43:00,139 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:43:00,313 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-113.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:43:00,470 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-113.txt
+2025-04-23 12:43:00,523 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:43:00,686 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-0.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:43:00,829 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-0.txt
+2025-04-23 12:43:00,880 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:43:01,088 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-wheel-models-5.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:43:01,209 - INFO - Saved 10000 URLs to sitemap-baza-drom-wheel-models-5.txt
+2025-04-23 12:43:01,261 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:43:03,467 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-dirs-11.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:43:03,630 - INFO - Saved 10000 URLs to sitemap-baza-drom-dirs-11.txt
+2025-04-23 12:43:03,681 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:43:03,903 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-108.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:43:04,041 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-108.txt
+2025-04-23 12:43:04,092 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:43:04,300 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-2.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:43:04,436 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-2.txt
+2025-04-23 12:43:04,488 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:43:04,691 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-132.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:43:04,830 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-132.txt
+2025-04-23 12:43:04,883 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:43:05,083 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-15.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:43:05,235 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-15.txt
+2025-04-23 12:43:05,287 - DEBUG - Starting new HTTPS connection (1): baza.drom.ru:443
+2025-04-23 12:43:05,514 - DEBUG - https://baza.drom.ru:443 "GET /sitemap-baza-drom-models-134.xml.gz HTTP/1.1" 200 None
+2025-04-23 12:43:05,651 - INFO - Saved 10000 URLs to sitemap-baza-drom-models-134.txt
+2025-04-23 12:43:05,656 - INFO - Processing complete. Found:
+2025-04-23 12:43:05,656 - INFO - - 0 sitemap URLs
+2025-04-23 12:43:05,656 - INFO - - 2681130 page URLs
